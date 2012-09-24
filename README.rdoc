@@ -1,4 +1,5 @@
 = CodeRetreat
+Hi
 
 This repo is for code and other useful stuff related to coderetreat
 
